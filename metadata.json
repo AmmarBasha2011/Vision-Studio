@@ -1,0 +1,8 @@
+{
+  "name": "Vision Studio",
+  "description": "Minimal AI Content Engineer for high-quality SVG, React, and Canvas visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
